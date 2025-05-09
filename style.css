@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background: #f4f4f4;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #itemListContainer {
+    margin-top: 20px;
+  }
+  
+  .item-box {
+    border: 1px solid #aaa;
+    padding: 10px;
+    margin: 5px 0;
+    background-color: white;
+  }
+  
